@@ -1,6 +1,6 @@
 ## Hi I'm [IogaMaster](https://youtube.com/IogaMaster)
 
-![](https://img.shields.io/youtube/channel/subscribers/UCFzUEe9XUlkDLp6AmtNzmOA?logo=youtube&logoColor=red&style=for-the-badge)
+[![](https://img.shields.io/youtube/channel/subscribers/UCFzUEe9XUlkDLp6AmtNzmOA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/IogaMaster)
 
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&theme=ayu-mirage)](https://github.com/IogaMaster)
 
@@ -8,7 +8,7 @@
 <details>
 <summary>:zap: Extra GitHub Stats</summary>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IogaMaster&theme=ayu-mirage&hide_border=false)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=IogaMaster&theme=ayu-mirage&hide_border=false)](https://github.com/IogaMaster)<br/>
   
 [![IogaMaster's Most Used Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=IogaMaster&theme=ayu-mirage)](https://github.com/IogaMaster)
 </details>
