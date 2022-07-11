@@ -10,7 +10,7 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=IogaMaster&theme=ayu-mirage&hide_border=false)](https://github.com/IogaMaster)<br/>
   
-[![IogaMaster's Most Used Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=IogaMaster&theme=ayu-mirage)](https://github.com/IogaMaster)
+[![IogaMaster's Most Used Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=IogaMaster&theme=ayu-mirage&layout=compact)](https://github.com/IogaMaster)
 </details>
 
 
