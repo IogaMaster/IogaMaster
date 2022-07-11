@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Generating an FFI with bindgen - Rust Lang](https://www.youtube.com/watch?v=KWrfxKUBIuo)
 - [Make a Game Engine in Rust Lang | Setup | #01](https://www.youtube.com/watch?v=LlPe6Mduhzo)
 - [Make a Game Engine in Rust Lang | Intro | #00](https://www.youtube.com/watch?v=uKKLYgl4Nuc)
 - [How Collision Works - #1 Circle Collision](https://www.youtube.com/watch?v=87Bj4PtgzSc)
 - [Better Movement Code | Godot 3.2 Tips &amp; Tricks](https://www.youtube.com/watch?v=bdlQf7_sXLE)
-- [Smooth Camera Using Lerp | Godot 3.2 Tutorial](https://www.youtube.com/watch?v=Jd0en-xC3bk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/IogaMaster)
