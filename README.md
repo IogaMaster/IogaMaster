@@ -23,7 +23,7 @@
 
 - Os: [Arch Linux](https://archlinux.org)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Editor: [Doom Emacs](https://github.com/doomemacs/doomemacs)
+- Editors: [Doom Emacs](https://github.com/doomemacs/doomemacs) & [Neovim](https://github.com/neovim/neovim)
 
 
 
