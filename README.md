@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Make a Game Engine in Rust Lang | OpenGL Wrapper | #04](https://www.youtube.com/watch?v=FQYKPx6VI8g)
 - [Make a Game Engine in Rust Lang | Window &amp; OpenGL Setup | #03](https://www.youtube.com/watch?v=elcgV6RSZKc)
 - [Make a Game Engine in Rust Lang | Logging &amp; Custom Errors | #02](https://www.youtube.com/watch?v=UjSl94zSr58)
 - [Generating an FFI with bindgen - Rust Lang](https://www.youtube.com/watch?v=KWrfxKUBIuo)
 - [Make a Game Engine in Rust Lang | Setup | #01](https://www.youtube.com/watch?v=LlPe6Mduhzo)
-- [Make a Game Engine in Rust Lang | Intro | #00](https://www.youtube.com/watch?v=uKKLYgl4Nuc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/IogaMaster)
