@@ -21,7 +21,7 @@
 
 ### :computer: Software I use:
 
-- Os: [Arch Linux](https://archlinux.org)
+- Os: [Arch Linux](https://archlinux.org) (Considering NixOs)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - Editors: [Doom Emacs](https://github.com/doomemacs/doomemacs) & [Neovim](https://github.com/neovim/neovim)
 
