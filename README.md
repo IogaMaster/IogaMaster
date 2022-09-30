@@ -16,7 +16,6 @@
 
 ### About Me
 
-* :goal_net: 2022 Goals: Get to 1k subscribers!
 * :seedling: I'm currently learning Rust
 
 ### :computer: Software I use:
