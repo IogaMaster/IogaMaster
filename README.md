@@ -7,11 +7,11 @@
 ### About Me
 
 * :tada: Get to 1k subscribers.
-* :seedling: I'm currently learning Rust
+* :seedling: I'm currently learning Kotlin, Nix & C
 
 ### :computer: Software I use:
 
-- Os: [Arch Linux](https://archlinux.org) ([NixOs](https://nixos.org/) Soon)
+- Os: [NixOs](https://nixos.org/)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - Editors: [Doom Emacs](https://github.com/doomemacs/doomemacs) & [Neovim](https://github.com/neovim/neovim)
 
