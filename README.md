@@ -1,6 +1,6 @@
 ## Hi I'm [IogaMaster](https://youtube.com/IogaMaster)
 
-[![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/IogaMaster)
+[![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCFzUEe9XUlkDLp6AmtNzmOA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/IogaMaster)
 
