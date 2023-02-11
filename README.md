@@ -10,12 +10,12 @@
 ### About Me
 
 * :tada: Get to 1k subscribers.
-* :seedling: I'm currently learning Kotlin, Nix & C
+* :seedling: I'm currently learning Nix & C
 
 ### :computer: Software I use:
 
-- Os: [NixOs](https://nixos.org/)
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- Os: [NixOS](https://nixos.org/)
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty) ([Considering WEZTERM](https://wezfurlong.org/wezterm/))
 - Editors: [Doom Emacs](https://github.com/doomemacs/doomemacs) & [Neovim](https://github.com/neovim/neovim)
 
 ### 📺 Latest YouTube Videos
