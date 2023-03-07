@@ -1,25 +1,22 @@
 ## Hi I'm [IogaMaster](https://youtube.com/IogaMaster)
 
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
 
 [![IogaMaster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IogaMaster&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster?tab=repositories)
 
-### About Me
+### Languages I'm learning:
 
-* :tada: Get to 1k subscribers.
-* :seedling: I'm currently learning Nix & C
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-### :computer: Software I use:
+### Software I use:
 
-- Os: [NixOS](https://nixos.org/)
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty) ([Considering WEZTERM](https://wezfurlong.org/wezterm/))
-- Editors: [Doom Emacs](https://github.com/doomemacs/doomemacs) & [Neovim](https://github.com/neovim/neovim)
+[![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+[![Alacritty](https://img.shields.io/badge/alacritty-%230175C2.svg?style=for-the-badge&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Make a Game Engine in Rust Lang | Shader Program | #06](https://www.youtube.com/watch?v=vy6vrb4xRU4)
-- [Make a Game Engine in Rust Lang | Indices | #05](https://www.youtube.com/watch?v=es9vgyIgvAk)
-- [Make a Game Engine in Rust Lang | OpenGL Wrapper | #04](https://www.youtube.com/watch?v=FQYKPx6VI8g)
-- [Make a Game Engine in Rust Lang | Window &amp; OpenGL Setup | #03](https://www.youtube.com/watch?v=elcgV6RSZKc)
-- [Make a Game Engine in Rust Lang | Logging &amp; Custom Errors | #02](https://www.youtube.com/watch?v=UjSl94zSr58)
-<!-- YOUTUBE:END -->
