@@ -22,5 +22,3 @@
 
 [![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
-[![Alacritty](https://img.shields.io/badge/alacritty-%230175C2.svg?style=for-the-badge&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
-
