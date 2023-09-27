@@ -5,6 +5,9 @@
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2P08GZ)
+
+[![Discord](https://img.shields.io/badge/@iogamaster-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1110249268423442505)
+
 ---
 
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true)](https://github.com/IogaMaster)
