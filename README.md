@@ -12,6 +12,6 @@
 
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true)](https://github.com/IogaMaster)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=IogaMaster&theme=catppuccin-mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![IogaMaster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IogaMaster&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster?tab=repositories)
-
-
