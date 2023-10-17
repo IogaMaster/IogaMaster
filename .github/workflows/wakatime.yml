@@ -8,20 +8,6 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme-year:
-    name: WakaReadme DevMetrics Year Update
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          API_BASE_URL: https://wakapi.dev/api/compat/wakatime
-          SECTION_NAME: wakayear
-          # SHOW_TITLE: true # optional
-          # BLOCKS: ░▒▓█ # optional
-          # TIME_RANGE: last_year
-          # SHOW_TIME: true # optional
-          # SHOW_TOTAL: true # optional
   update-readme-week:
     name: WakaReadme DevMetrics Week Update
     runs-on: ubuntu-latest
@@ -31,9 +17,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           API_BASE_URL: https://wakapi.dev/api/compat/wakatime
           SECTION_NAME: wakaweek
-          # SHOW_TITLE: true # optional
-          # BLOCKS: ░▒▓█ # optional
-          # TIME_RANGE: last_7_days
-          # SHOW_TIME: true # optional
-          # SHOW_TOTAL: true # optional
-
