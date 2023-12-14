@@ -16,8 +16,8 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix    2 hrs 49 mins   █████████████████████████   99.91 %
-TOML   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Nix    0 hrs 8 mins    ████████████████████████▓   98.06 %
+TOML   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:wakaweek-->
