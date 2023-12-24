@@ -16,11 +16,10 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix         0 hrs 4 mins    ██████████████████▓░░░░░░   74.43 %
-YAML        0 hrs 1 mins    █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Rust        0 hrs 0 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-gitignore   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-direnv      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Nix         0 hrs 4 mins    ███████████████████████░░   92.55 %
+Rust        0 hrs 0 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+gitignore   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+direnv      0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:wakaweek-->
