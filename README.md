@@ -16,9 +16,7 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix    0 hrs 13 mins   █████████████████████▓░░░   86.87 %
-YAML   0 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-yuck   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweek-->
