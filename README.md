@@ -16,7 +16,10 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-No activity tracked
+Nix        0 hrs 3 mins    ███████████████▓░░░░░░░░░   63.08 %
+Lua        0 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   36.92 %
+jsonc      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:wakaweek-->
