@@ -16,10 +16,10 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix        0 hrs 3 mins    ███████████████▓░░░░░░░░░   63.08 %
-Lua        0 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   36.92 %
+Nix        0 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   46.07 %
+Lua        0 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+Markdown   0 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
 jsonc      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:wakaweek-->
