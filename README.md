@@ -16,9 +16,8 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix          3 hrs 48 mins   ████████████████████████▓   98.24 %
-Rust         0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-JavaScript   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Nix         1 hrs 44 mins   ████████████████████████▓   98.11 %
+sshconfig   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:wakaweek-->
