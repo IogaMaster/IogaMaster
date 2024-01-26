@@ -16,8 +16,11 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix         1 hrs 44 mins   ████████████████████████▓   98.11 %
-sshconfig   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Nix       1 hrs 0 mins    ████████████████░░░░░░░░░   64.63 %
+JSON      0 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+unknown   0 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Lua       0 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+YAML      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:wakaweek-->
