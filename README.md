@@ -16,7 +16,11 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix   0 hrs 57 mins   █████████████████████████   100.00 %
+Nix       0 hrs 54 mins   ██████████████████▒░░░░░░   73.37 %
+Text      0 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Bash      0 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+unknown   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+YAML      0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:wakaweek-->
