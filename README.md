@@ -16,8 +16,7 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Nix         1 hrs 7 mins    ████████████████████████▒   97.11 %
-sshconfig   0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+unknown   4 hrs 56 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:wakaweek-->
