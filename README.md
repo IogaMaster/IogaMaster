@@ -16,7 +16,11 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-unknown   3 hrs 22 mins   █████████████████████████   100.00 %
+Nix       1 hrs 4 mins    ███████████░░░░░░░░░░░░░░   43.69 %
+Rust      0 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.93 %
+Text      0 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Lua       0 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Bash      0 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:wakaweek-->
