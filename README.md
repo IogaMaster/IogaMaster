@@ -16,9 +16,7 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Rust   0 hrs 52 mins   ██████████████████▒░░░░░░   73.40 %
-Lua    0 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-Nix    0 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweek-->
