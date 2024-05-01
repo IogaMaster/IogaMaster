@@ -46,7 +46,9 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## 📊 My Github Stats
 
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=IogaMaster&theme=catppuccin-mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iogamaster&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :zap: Recent Activity
