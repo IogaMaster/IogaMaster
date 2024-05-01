@@ -60,27 +60,27 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 5. ❗ Opened issue [#334](https://github.com/nix-community/nixos-generators/issues/334) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
 <!--END_SECTION:activity-->
 
-## 💼 Projects:
+## 🔭 Currently working on:
 
-### I Created:
+### My projects:
 
-https://github.com/IogaMaster/flux
+[flux](https://github.com/IogaMaster/flux) - Create and deploy game servers with nix  
 
-https://github.com/IogaMaster/blizzard
+[blizzard](https://github.com/IogaMaster/flux) - 🌨️ Install a nixos system remotely or in place 
 
-https://github.com/IogaMaster/warden
+[warden](https://github.com/IogaMaster/warden) - A tool to create in depth reviews of nixpkgs pr's
 
-https://github.com/IogaMaster/diplomat
+[diplomat](https://github.com/IogaMaster/diplomat) - 📜 Negotiate deployments with a remote
 
-### I maintain:
+### Projects I help maintain:
 
-https://github.com/nix-community/templates
+[nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community 
 
-https://github.com/nix-community/manix
+[manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix
 
-https://github.com/NixOS/nixpkgs
+[nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
-https://github.com/oddlama/nix-topology
+[oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations 
 
 ### 📬 How to contact me:
 
