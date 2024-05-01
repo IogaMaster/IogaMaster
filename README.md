@@ -94,4 +94,7 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 ### 💰 Support me:
 
+I am trying to make a living doing Youtube and open source!
+I think information should be free, so I continue condensing my knowlege into concise tech explainer videos. As well as creating useful tools in the Nix ecosystem and beyond.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2P08GZ)
