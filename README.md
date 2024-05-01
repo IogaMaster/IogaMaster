@@ -15,6 +15,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/IogaMaster/warden/issues/1#issuecomment-2086735384) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. 🗣 Commented on [#20](https://github.com/oddlama/nix-topology/pull/20#issuecomment-2086068171) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
+3. 🗣 Commented on [#22](https://github.com/oddlama/nix-topology/pull/22#issuecomment-2086056398) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
+4. 🗣 Commented on [#20](https://github.com/oddlama/nix-topology/pull/20#issuecomment-2080300829) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
+5. ❗ Opened issue [#334](https://github.com/nix-community/nixos-generators/issues/334) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
 <!--END_SECTION:activity-->
 
 
