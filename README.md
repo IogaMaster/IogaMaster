@@ -12,6 +12,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=IogaMaster&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## 📊 Weekly development breakdown
 
