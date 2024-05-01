@@ -1,16 +1,53 @@
-# Hi, I'm [IogaMaster](https://youtube.com/IogaMaster)  
+# Hi! I'm [IogaMaster](https://youtube.com/IogaMaster)  
+
+[![](https://visitcount.itsvg.in/api?id=IogaMaster&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+## 📜 About me
+
+### How it all started:
+
+12+ years ago, at age 6 I began programming. Creating minecraft plugins and mods.
+
+At age 10, while experimenting with Windows I corrupted my boot partition.
+This lead me to install my first Linux distro, Linux Mint.
+Over the years I hopped a few distros, landing on Arch linux.
+
+In October of 2022, while using [DOOM emacs](https://github.com/doomemacs/doomemacs). I stumbled across the creators NixOS [dotfiles](https://github.com/hlissner/dotfiles), I immediately began experimenting in a virtual machine.
+When preforming an update on Arch my installation broke. I figured it was a sign to ditch arch in favor of NixOS. I haven't looked back.
+
+### My journey in Open Source:
+
+In early 2023 I began contributing to open source, just some basic typo fixes.
+My first serious work in open source began in July of that year, with my first [nixpkgs](https://github.com/NixOS/nixpkgs) pull request. Adding a builder function for zig packages. https://github.com/NixOS/nixpkgs/pull/241741
+
+At that time I joined the nix-community org and began maintaining the [templates](https://github.com/nix-community/templates) repo.
+
+In January of 2024 I helped nix-community adopt a functional fork of [Manix](https://github.com/nix-community/manix).
+
+I maintain many packages in nixpkgs and help contribute to any projects I find useful.
+
+## 💻 Languages:
+
+### I know:
 
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://builtwithnix.org/)
-[![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2P08GZ)
+### I want to learn:
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 My Github Stats
 
 [![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IogaMaster&theme=catppuccin-mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![](https://visitcount.itsvg.in/api?id=IogaMaster&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iogamaster&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :zap: Recent Activity
 
@@ -22,13 +59,23 @@
 5. ❗ Opened issue [#334](https://github.com/nix-community/nixos-generators/issues/334) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
 <!--END_SECTION:activity-->
 
+## 💼 Projects:
 
-## 📊 Weekly development breakdown
+### I Created:
 
-<!--START_SECTION:wakaweek-->
 
-```txt
-No activity tracked
-```
+### I maintain:
 
-<!--END_SECTION:wakaweek-->
+### 📬 How to contact me:
+
+ <a href="https://discord.com/users/1110249268423442505">
+   <img title="Discord" src="https://simpleicons.vercel.app/discord/5175BF" width="3.5%">
+ </a>
+
+ <a alt="mailto:iogamastercode@gmail.com" href="mailto:iogamastercode@gmail.com">
+   <img title="Mail Me" src="https://simpleicons.vercel.app/gmail/5175BF" width="3.5%">
+ </a>
+
+### 💰 Support me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2P08GZ)
