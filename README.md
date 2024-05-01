@@ -1,6 +1,9 @@
 # Hi! I'm [IogaMaster](https://youtube.com/IogaMaster)  
 
-[![](https://visitcount.itsvg.in/api?id=IogaMaster&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+> ❄️ Nixifying everything
+
+![](https://komarev.com/ghpvc/?username=IogaMaster&style=flat-square)
+
 
 ## 📜 About me
 
