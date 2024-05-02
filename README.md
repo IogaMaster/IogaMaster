@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/IogaMaster/neocord/issues/20#issuecomment-2089427514) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-2. 🎉 Merged PR [#4](https://github.com/IogaMaster/warden/pull/4) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-3. 🗣 Commented on [#3](https://github.com/IogaMaster/warden/pull/3#issuecomment-2089148979) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-4. 🎉 Merged PR [#3](https://github.com/IogaMaster/warden/pull/3) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-5. 🗣 Commented on [#20](https://github.com/oddlama/nix-topology/pull/20#issuecomment-2089059184) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
+1. 🗣 Commented on [#20](https://github.com/IogaMaster/neocord/issues/20#issuecomment-2089462801) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+2. 🔓 Reopened issue [#20](https://github.com/IogaMaster/neocord/issues/20) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+3. 🗣 Commented on [#20](https://github.com/IogaMaster/neocord/issues/20#issuecomment-2089427514) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+4. 🎉 Merged PR [#4](https://github.com/IogaMaster/warden/pull/4) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+5. 🗣 Commented on [#3](https://github.com/IogaMaster/warden/pull/3#issuecomment-2089148979) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
