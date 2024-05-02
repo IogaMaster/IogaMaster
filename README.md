@@ -77,6 +77,8 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 [nixie](https://github.com/IogaMaster/nixie) - 🧪 Create non-nix compatible neovim configs 
 
+[prism](https://github.com/IogaMaster/prism) - 🌈 Convert wallpapers into a colorscheme and place them in your ~/ 
+
 ### Projects I help maintain:
 
 [nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community 
