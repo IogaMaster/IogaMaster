@@ -75,6 +75,8 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 [diplomat](https://github.com/IogaMaster/diplomat) - 📜 Negotiate deployments with a remote
 
+[nixie](https://github.com/IogaMaster/nixie) - 🧪 Create non-nix compatible neovim configs 
+
 ### Projects I help maintain:
 
 [nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community 
