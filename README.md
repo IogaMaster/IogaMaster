@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/IogaMaster/warden/issues/2#issuecomment-2091210994) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-2. 🗣 Commented on [#2](https://github.com/IogaMaster/warden/issues/2#issuecomment-2091199147) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-3. 🔒 Closed issue [#2](https://github.com/IogaMaster/warden/issues/2) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-4. 🗣 Commented on [#26](https://github.com/oddlama/nix-topology/pull/26#issuecomment-2091137825) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
-5. 💪 Opened PR [#26](https://github.com/oddlama/nix-topology/pull/26) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
+1. 🔒 Closed issue [#17](https://github.com/nix-community/manix/issues/17) in [nix-community/manix](https://github.com/nix-community/manix)
+2. 🗣 Commented on [#19](https://github.com/nix-community/manix/pull/19#issuecomment-2093350397) in [nix-community/manix](https://github.com/nix-community/manix)
+3. 🗣 Commented on [#2](https://github.com/IogaMaster/warden/issues/2#issuecomment-2091210994) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+4. 🗣 Commented on [#2](https://github.com/IogaMaster/warden/issues/2#issuecomment-2091199147) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+5. 🔒 Closed issue [#2](https://github.com/IogaMaster/warden/issues/2) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
