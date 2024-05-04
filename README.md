@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/nix-community/mineflake/issues/17#issuecomment-2093703033) in [nix-community/mineflake](https://github.com/nix-community/mineflake)
-2. 🗣 Commented on [#61](https://github.com/ParadigmMC/mcman/issues/61#issuecomment-2093481083) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
-3. ❗ Opened issue [#61](https://github.com/ParadigmMC/mcman/issues/61) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
-4. 🗣 Commented on [#17](https://github.com/ParadigmMC/mcman/issues/17#issuecomment-2093474275) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
-5. 🔒 Closed issue [#17](https://github.com/nix-community/manix/issues/17) in [nix-community/manix](https://github.com/nix-community/manix)
+1. 🎉 Merged PR [#5](https://github.com/IogaMaster/warden/pull/5) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. 🗣 Commented on [#17](https://github.com/nix-community/mineflake/issues/17#issuecomment-2093703033) in [nix-community/mineflake](https://github.com/nix-community/mineflake)
+3. 🗣 Commented on [#61](https://github.com/ParadigmMC/mcman/issues/61#issuecomment-2093481083) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
+4. ❗ Opened issue [#61](https://github.com/ParadigmMC/mcman/issues/61) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
+5. 🗣 Commented on [#17](https://github.com/ParadigmMC/mcman/issues/17#issuecomment-2093474275) in [ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
