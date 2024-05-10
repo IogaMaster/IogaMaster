@@ -69,7 +69,7 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 [flux](https://github.com/IogaMaster/flux) - Create and deploy game servers with nix  
 
-[blizzard](https://github.com/IogaMaster/flux) - 🌨️ Install a nixos system remotely or in place 
+[blizzard](https://github.com/IogaMaster/blizzard) - 🌨️ Install a nixos system remotely or in place 
 
 [warden](https://github.com/IogaMaster/warden) - A tool to create in depth reviews of nixpkgs pr's
 
