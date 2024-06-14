@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/paoloose/urn/issues/16#issuecomment-2164393955) in [paoloose/urn](https://github.com/paoloose/urn)
-2. ❗ Opened issue [#396](https://github.com/DanielGavin/ols/issues/396) in [DanielGavin/ols](https://github.com/DanielGavin/ols)
-3. 🎉 Merged PR [#8](https://github.com/IogaMaster/warden/pull/8) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-4. 🗣 Commented on [#21](https://github.com/IogaMaster/neocord/issues/21#issuecomment-2118640136) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-5. 🎉 Merged PR [#7](https://github.com/IogaMaster/warden/pull/7) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+1. ❗ Opened issue [#1378](https://github.com/ValveSoftware/gamescope/issues/1378) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
+2. 🗣 Commented on [#16](https://github.com/paoloose/urn/issues/16#issuecomment-2164393955) in [paoloose/urn](https://github.com/paoloose/urn)
+3. ❗ Opened issue [#396](https://github.com/DanielGavin/ols/issues/396) in [DanielGavin/ols](https://github.com/DanielGavin/ols)
+4. 🎉 Merged PR [#8](https://github.com/IogaMaster/warden/pull/8) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+5. 🗣 Commented on [#21](https://github.com/IogaMaster/neocord/issues/21#issuecomment-2118640136) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
