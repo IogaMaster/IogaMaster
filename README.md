@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2174504771) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
-2. 🎉 Merged PR [#9](https://github.com/IogaMaster/warden/pull/9) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-3. 🗣 Commented on [#1378](https://github.com/ValveSoftware/gamescope/issues/1378#issuecomment-2168735274) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
-4. ❗ Opened issue [#1378](https://github.com/ValveSoftware/gamescope/issues/1378) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
-5. 🗣 Commented on [#16](https://github.com/paoloose/urn/issues/16#issuecomment-2164393955) in [paoloose/urn](https://github.com/paoloose/urn)
+1. 🎉 Merged PR [#10](https://github.com/IogaMaster/warden/pull/10) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2174504771) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
+3. 🎉 Merged PR [#9](https://github.com/IogaMaster/warden/pull/9) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+4. 🗣 Commented on [#1378](https://github.com/ValveSoftware/gamescope/issues/1378#issuecomment-2168735274) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
+5. ❗ Opened issue [#1378](https://github.com/ValveSoftware/gamescope/issues/1378) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
