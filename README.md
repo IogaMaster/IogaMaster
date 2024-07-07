@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#309327](https://github.com/NixOS/nixpkgs/pull/309327#issuecomment-2203805930) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🔒 Closed issue [#1378](https://github.com/ValveSoftware/gamescope/issues/1378) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
-3. 🗣 Commented on [#1378](https://github.com/ValveSoftware/gamescope/issues/1378#issuecomment-2192921374) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
-4. 🗣 Commented on [#4](https://github.com/IogaMaster/dotfiles/issues/4#issuecomment-2187461690) in [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles)
-5. 🎉 Merged PR [#10](https://github.com/IogaMaster/warden/pull/10) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+1. 🗣 Commented on [#23](https://github.com/IogaMaster/neocord/issues/23#issuecomment-2212596373) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+2. 🔒 Closed issue [#23](https://github.com/IogaMaster/neocord/issues/23) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+3. 🗣 Commented on [#309327](https://github.com/NixOS/nixpkgs/pull/309327#issuecomment-2203805930) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🔒 Closed issue [#1378](https://github.com/ValveSoftware/gamescope/issues/1378) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
+5. 🗣 Commented on [#1378](https://github.com/ValveSoftware/gamescope/issues/1378#issuecomment-2192921374) in [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
