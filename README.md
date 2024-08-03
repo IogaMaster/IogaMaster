@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/wins1ey/LibreSplit/issues/59) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
-2. 🗣 Commented on [#58](https://github.com/wins1ey/LibreSplit/pull/58#issuecomment-2259386797) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
-3. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2254603628) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-4. 🎉 Merged PR [#13](https://github.com/IogaMaster/warden/pull/13) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-5. 🗣 Commented on [#5](https://github.com/IogaMaster/flux/pull/5#issuecomment-2254294954) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+1. 🎉 Merged PR [#14](https://github.com/IogaMaster/warden/pull/14) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. ❗ Opened issue [#59](https://github.com/wins1ey/LibreSplit/issues/59) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
+3. 🗣 Commented on [#58](https://github.com/wins1ey/LibreSplit/pull/58#issuecomment-2259386797) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
+4. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2254603628) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+5. 🎉 Merged PR [#13](https://github.com/IogaMaster/warden/pull/13) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
