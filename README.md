@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/IogaMaster/neocord/issues/26) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-2. 🗣 Commented on [#11](https://github.com/nix-community/templates/pull/11#issuecomment-2271951073) in [nix-community/templates](https://github.com/nix-community/templates)
-3. 🎉 Merged PR [#14](https://github.com/IogaMaster/warden/pull/14) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-4. ❗ Opened issue [#59](https://github.com/wins1ey/LibreSplit/issues/59) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
-5. 🗣 Commented on [#58](https://github.com/wins1ey/LibreSplit/pull/58#issuecomment-2259386797) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
+1. 🗣 Commented on [#26](https://github.com/IogaMaster/neocord/issues/26#issuecomment-2274089548) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+2. ❗ Opened issue [#26](https://github.com/IogaMaster/neocord/issues/26) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+3. 🗣 Commented on [#11](https://github.com/nix-community/templates/pull/11#issuecomment-2271951073) in [nix-community/templates](https://github.com/nix-community/templates)
+4. 🎉 Merged PR [#14](https://github.com/IogaMaster/warden/pull/14) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+5. ❗ Opened issue [#59](https://github.com/wins1ey/LibreSplit/issues/59) in [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
