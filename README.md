@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/nvim-neorocks/rocks.nvim/issues/504#issuecomment-2278566641) in [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
-2. 🔒 Closed issue [#504](https://github.com/nvim-neorocks/rocks.nvim/issues/504) in [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
-3. ❗ Opened issue [#504](https://github.com/nvim-neorocks/rocks.nvim/issues/504) in [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
-4. 🎉 Merged PR [#11](https://github.com/nix-community/templates/pull/11) in [nix-community/templates](https://github.com/nix-community/templates)
-5. 🗣 Commented on [#26](https://github.com/IogaMaster/neocord/issues/26#issuecomment-2274089548) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+1. 🗣 Commented on [#334032](https://github.com/NixOS/nixpkgs/pull/334032#issuecomment-2283007725) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#334032](https://github.com/NixOS/nixpkgs/pull/334032) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#15](https://github.com/IogaMaster/warden/pull/15) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+4. 🗣 Commented on [#504](https://github.com/nvim-neorocks/rocks.nvim/issues/504#issuecomment-2278566641) in [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
+5. 🔒 Closed issue [#504](https://github.com/nvim-neorocks/rocks.nvim/issues/504) in [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
