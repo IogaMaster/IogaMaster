@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/IogaMaster/flux/pull/5) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-2. 🗣 Commented on [#333708](https://github.com/NixOS/nixpkgs/pull/333708#issuecomment-2289480200) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#294662](https://github.com/NixOS/nixpkgs/pull/294662#issuecomment-2289479090) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#294662](https://github.com/NixOS/nixpkgs/pull/294662#issuecomment-2289477453) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#294662](https://github.com/NixOS/nixpkgs/pull/294662#issuecomment-2288005555) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🔒 Closed issue [#6](https://github.com/IogaMaster/flux/issues/6) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+2. ❌ Closed PR [#7](https://github.com/IogaMaster/flux/pull/7) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+3. 💪 Opened PR [#7](https://github.com/IogaMaster/flux/pull/7) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+4. 🎉 Merged PR [#5](https://github.com/IogaMaster/flux/pull/5) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+5. 🗣 Commented on [#333708](https://github.com/NixOS/nixpkgs/pull/333708#issuecomment-2289480200) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
