@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294103](https://github.com/NixOS/nixpkgs/pull/294103#issuecomment-2468717101) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🔒 Closed issue [#29](https://github.com/IogaMaster/neocord/issues/29) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-3. 🎉 Merged PR [#32](https://github.com/IogaMaster/neocord/pull/32) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-4. 🗣 Commented on [#347232](https://github.com/NixOS/nixpkgs/pull/347232#issuecomment-2408721827) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#17](https://github.com/IogaMaster/warden/pull/17) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+1. 🎉 Merged PR [#33](https://github.com/IogaMaster/neocord/pull/33) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+2. 🗣 Commented on [#294103](https://github.com/NixOS/nixpkgs/pull/294103#issuecomment-2468717101) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🔒 Closed issue [#29](https://github.com/IogaMaster/neocord/issues/29) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+4. 🎉 Merged PR [#32](https://github.com/IogaMaster/neocord/pull/32) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+5. 🗣 Commented on [#347232](https://github.com/NixOS/nixpkgs/pull/347232#issuecomment-2408721827) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
