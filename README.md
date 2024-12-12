@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/Goose97/timber.nvim/issues/13) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
-2. 🎉 Merged PR [#33](https://github.com/IogaMaster/neocord/pull/33) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-3. 🗣 Commented on [#294103](https://github.com/NixOS/nixpkgs/pull/294103#issuecomment-2468717101) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🔒 Closed issue [#29](https://github.com/IogaMaster/neocord/issues/29) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-5. 🎉 Merged PR [#32](https://github.com/IogaMaster/neocord/pull/32) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+1. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536730178) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+2. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536728196) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+3. ❗ Opened issue [#13](https://github.com/Goose97/timber.nvim/issues/13) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+4. 🎉 Merged PR [#33](https://github.com/IogaMaster/neocord/pull/33) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+5. 🗣 Commented on [#294103](https://github.com/NixOS/nixpkgs/pull/294103#issuecomment-2468717101) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
