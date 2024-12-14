@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2539892151) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
-2. 🔒 Closed issue [#13](https://github.com/Goose97/timber.nvim/issues/13) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
-3. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536753074) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
-4. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536730178) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
-5. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536728196) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+1. ❗ Opened issue [#397](https://github.com/Snowiiii/Pumpkin/issues/397) in [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)
+2. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2539892151) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+3. 🔒 Closed issue [#13](https://github.com/Goose97/timber.nvim/issues/13) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+4. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536753074) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
+5. 🗣 Commented on [#13](https://github.com/Goose97/timber.nvim/issues/13#issuecomment-2536730178) in [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
