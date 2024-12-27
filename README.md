@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/IogaMaster/warden/pull/18) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-2. 🗣 Commented on [#3](https://github.com/IogaMaster/snowfall-starter/pull/3#issuecomment-2563134950) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
-3. 🎉 Merged PR [#3](https://github.com/IogaMaster/snowfall-starter/pull/3) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
-4. 🎉 Merged PR [#12](https://github.com/nix-community/templates/pull/12) in [nix-community/templates](https://github.com/nix-community/templates)
-5. 🗣 Commented on [#283](https://github.com/Snowiiii/Pumpkin/pull/283#issuecomment-2542653754) in [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)
+1. 🗣 Commented on [#368404](https://github.com/NixOS/nixpkgs/pull/368404#issuecomment-2563298525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#18](https://github.com/IogaMaster/warden/pull/18) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+3. 🗣 Commented on [#3](https://github.com/IogaMaster/snowfall-starter/pull/3#issuecomment-2563134950) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
+4. 🎉 Merged PR [#3](https://github.com/IogaMaster/snowfall-starter/pull/3) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
+5. 🎉 Merged PR [#12](https://github.com/nix-community/templates/pull/12) in [nix-community/templates](https://github.com/nix-community/templates)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
