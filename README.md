@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/tynanbe/shellout/issues/9) in [tynanbe/shellout](https://github.com/tynanbe/shellout)
-2. 🗣 Commented on [#368404](https://github.com/NixOS/nixpkgs/pull/368404#issuecomment-2563298525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#18](https://github.com/IogaMaster/warden/pull/18) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-4. 🗣 Commented on [#3](https://github.com/IogaMaster/snowfall-starter/pull/3#issuecomment-2563134950) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
-5. 🎉 Merged PR [#3](https://github.com/IogaMaster/snowfall-starter/pull/3) in [IogaMaster/snowfall-starter](https://github.com/IogaMaster/snowfall-starter)
+1. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941923) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
+2. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941753) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
+3. ❗ Opened issue [#9](https://github.com/tynanbe/shellout/issues/9) in [tynanbe/shellout](https://github.com/tynanbe/shellout)
+4. 🗣 Commented on [#368404](https://github.com/NixOS/nixpkgs/pull/368404#issuecomment-2563298525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#18](https://github.com/IogaMaster/warden/pull/18) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
