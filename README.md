@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941923) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
-2. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941753) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
-3. ❗ Opened issue [#9](https://github.com/tynanbe/shellout/issues/9) in [tynanbe/shellout](https://github.com/tynanbe/shellout)
-4. 🗣 Commented on [#368404](https://github.com/NixOS/nixpkgs/pull/368404#issuecomment-2563298525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#18](https://github.com/IogaMaster/warden/pull/18) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+1. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2565762884) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+2. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941923) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
+3. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941753) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
+4. ❗ Opened issue [#9](https://github.com/tynanbe/shellout/issues/9) in [tynanbe/shellout](https://github.com/tynanbe/shellout)
+5. 🗣 Commented on [#368404](https://github.com/NixOS/nixpkgs/pull/368404#issuecomment-2563298525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
