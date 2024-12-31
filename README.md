@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#743](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/743) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-2. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2565762884) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-3. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941923) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
-4. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941753) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
-5. ❗ Opened issue [#9](https://github.com/tynanbe/shellout/issues/9) in [tynanbe/shellout](https://github.com/tynanbe/shellout)
+1. 💪 Opened PR [#258](https://github.com/zhaofengli/colmena/pull/258) in [zhaofengli/colmena](https://github.com/zhaofengli/colmena)
+2. 🗣 Commented on [#209](https://github.com/zhaofengli/colmena/pull/209#issuecomment-2566042072) in [zhaofengli/colmena](https://github.com/zhaofengli/colmena)
+3. ❗ Opened issue [#743](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/743) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+4. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2565762884) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+5. 🗣 Commented on [#334](https://github.com/nix-community/nixos-generators/issues/334#issuecomment-2564941923) in [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
