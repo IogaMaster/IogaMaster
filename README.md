@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/IogaMaster/neocord/issues/31) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-2. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2566657769) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-3. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2566657146) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-4. 💪 Opened PR [#258](https://github.com/zhaofengli/colmena/pull/258) in [zhaofengli/colmena](https://github.com/zhaofengli/colmena)
-5. 🗣 Commented on [#209](https://github.com/zhaofengli/colmena/pull/209#issuecomment-2566042072) in [zhaofengli/colmena](https://github.com/zhaofengli/colmena)
+1. ❗ Opened issue [#51](https://github.com/numtide/blueprint/issues/51) in [numtide/blueprint](https://github.com/numtide/blueprint)
+2. 🔒 Closed issue [#31](https://github.com/IogaMaster/neocord/issues/31) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+3. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2566657769) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+4. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2566657146) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+5. 💪 Opened PR [#258](https://github.com/zhaofengli/colmena/pull/258) in [zhaofengli/colmena](https://github.com/zhaofengli/colmena)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
