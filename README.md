@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2568238296) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-2. ❗ Opened issue [#52](https://github.com/numtide/blueprint/issues/52) in [numtide/blueprint](https://github.com/numtide/blueprint)
-3. ❗ Opened issue [#51](https://github.com/numtide/blueprint/issues/51) in [numtide/blueprint](https://github.com/numtide/blueprint)
-4. 🔒 Closed issue [#31](https://github.com/IogaMaster/neocord/issues/31) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-5. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2566657769) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+1. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2569887598) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+2. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2568238296) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
+3. ❗ Opened issue [#52](https://github.com/numtide/blueprint/issues/52) in [numtide/blueprint](https://github.com/numtide/blueprint)
+4. ❗ Opened issue [#51](https://github.com/numtide/blueprint/issues/51) in [numtide/blueprint](https://github.com/numtide/blueprint)
+5. 🔒 Closed issue [#31](https://github.com/IogaMaster/neocord/issues/31) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
