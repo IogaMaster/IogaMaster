@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2571377940) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-2. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2571366589) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-3. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2569887598) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-4. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2568238296) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-5. ❗ Opened issue [#52](https://github.com/numtide/blueprint/issues/52) in [numtide/blueprint](https://github.com/numtide/blueprint)
+1. 🗣 Commented on [#3966](https://github.com/NixOS/nix/issues/3966#issuecomment-2571394591) in [NixOS/nix](https://github.com/NixOS/nix)
+2. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2571377940) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+3. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2571366589) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+4. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2569887598) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+5. 🗣 Commented on [#31](https://github.com/IogaMaster/neocord/issues/31#issuecomment-2568238296) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
