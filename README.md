@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/IogaMaster/warden/pull/19) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-2. ❗ Opened issue [#5](https://github.com/jorsn/flakegen/issues/5) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
-3. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2576009395) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
-4. 🗣 Commented on [#3966](https://github.com/NixOS/nix/issues/3966#issuecomment-2571394591) in [NixOS/nix](https://github.com/NixOS/nix)
-5. 🗣 Commented on [#6](https://github.com/IogaMaster/flux/issues/6#issuecomment-2571377940) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+1. ❗ Opened issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
+2. 🎉 Merged PR [#19](https://github.com/IogaMaster/warden/pull/19) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+3. ❗ Opened issue [#5](https://github.com/jorsn/flakegen/issues/5) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
+4. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-2576009395) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+5. 🗣 Commented on [#3966](https://github.com/NixOS/nix/issues/3966#issuecomment-2571394591) in [NixOS/nix](https://github.com/NixOS/nix)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
