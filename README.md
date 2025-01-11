@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/ehllie/ez-configs/issues/17#issuecomment-2579065920) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
-2. 🔒 Closed issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
-3. ❗ Opened issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
-4. 🎉 Merged PR [#19](https://github.com/IogaMaster/warden/pull/19) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-5. ❗ Opened issue [#5](https://github.com/jorsn/flakegen/issues/5) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
+1. 🎉 Merged PR [#20](https://github.com/IogaMaster/warden/pull/20) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. 🗣 Commented on [#20](https://github.com/IogaMaster/warden/pull/20#issuecomment-2583360037) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+3. 🗣 Commented on [#17](https://github.com/ehllie/ez-configs/issues/17#issuecomment-2579065920) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
+4. 🔒 Closed issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
+5. ❗ Opened issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
