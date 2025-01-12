@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/IogaMaster/warden/pull/20) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-2. 🗣 Commented on [#20](https://github.com/IogaMaster/warden/pull/20#issuecomment-2583360037) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-3. 🗣 Commented on [#17](https://github.com/ehllie/ez-configs/issues/17#issuecomment-2579065920) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
-4. 🔒 Closed issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
-5. ❗ Opened issue [#17](https://github.com/ehllie/ez-configs/issues/17) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
+1. 🗣 Commented on [#309327](https://github.com/NixOS/nixpkgs/pull/309327#issuecomment-2585922413) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#373273](https://github.com/NixOS/nixpkgs/issues/373273#issuecomment-2585921374) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#20](https://github.com/IogaMaster/warden/pull/20) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+4. 🗣 Commented on [#20](https://github.com/IogaMaster/warden/pull/20#issuecomment-2583360037) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+5. 🗣 Commented on [#17](https://github.com/ehllie/ez-configs/issues/17#issuecomment-2579065920) in [ehllie/ez-configs](https://github.com/ehllie/ez-configs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
