@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/IogaMaster/warden/pull/22) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
-2. 🗣 Commented on [#6](https://github.com/nvzone/volt/issues/6#issuecomment-2600996153) in [nvzone/volt](https://github.com/nvzone/volt)
-3. ❗ Opened issue [#6](https://github.com/nvzone/volt/issues/6) in [nvzone/volt](https://github.com/nvzone/volt)
-4. 🗣 Commented on [#26](https://github.com/oddlama/nix-topology/pull/26#issuecomment-2598896037) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
-5. 🗣 Commented on [#374408](https://github.com/NixOS/nixpkgs/issues/374408#issuecomment-2597398859) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#23](https://github.com/IogaMaster/warden/pull/23) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+2. 🎉 Merged PR [#22](https://github.com/IogaMaster/warden/pull/22) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+3. 🗣 Commented on [#6](https://github.com/nvzone/volt/issues/6#issuecomment-2600996153) in [nvzone/volt](https://github.com/nvzone/volt)
+4. ❗ Opened issue [#6](https://github.com/nvzone/volt/issues/6) in [nvzone/volt](https://github.com/nvzone/volt)
+5. 🗣 Commented on [#26](https://github.com/oddlama/nix-topology/pull/26#issuecomment-2598896037) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
