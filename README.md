@@ -56,7 +56,7 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/IogaMaster/warden/pull/23) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
+1. 🎉 Merged PR [#34](https://github.com/IogaMaster/neocord/pull/34) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 2. 🎉 Merged PR [#22](https://github.com/IogaMaster/warden/pull/22) in [IogaMaster/warden](https://github.com/IogaMaster/warden)
 3. 🗣 Commented on [#6](https://github.com/nvzone/volt/issues/6#issuecomment-2600996153) in [nvzone/volt](https://github.com/nvzone/volt)
 4. ❗ Opened issue [#6](https://github.com/nvzone/volt/issues/6) in [nvzone/volt](https://github.com/nvzone/volt)
