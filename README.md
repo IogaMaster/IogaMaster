@@ -56,9 +56,9 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388207](https://github.com/NixOS/nixpkgs/pull/388207#issuecomment-2708959337) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#34](https://github.com/IogaMaster/neocord/pull/34) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
-3. 🗣 Commented on [#6](https://github.com/nvzone/volt/issues/6#issuecomment-2600996153) in [nvzone/volt](https://github.com/nvzone/volt)
+1. 🗣 Commented on [#10](https://github.com/IogaMaster/flux/pull/10#issuecomment-2722820073) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+2. 🗣 Commented on [#388207](https://github.com/NixOS/nixpkgs/pull/388207#issuecomment-2708959337) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#34](https://github.com/IogaMaster/neocord/pull/34) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 4. ❗ Opened issue [#6](https://github.com/nvzone/volt/issues/6) in [nvzone/volt](https://github.com/nvzone/volt)
 5. 🗣 Commented on [#26](https://github.com/oddlama/nix-topology/pull/26#issuecomment-2598896037) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
 <!--END_SECTION:activity-->
