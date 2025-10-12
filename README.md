@@ -56,9 +56,9 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448265](https://github.com/NixOS/nixpkgs/pull/448265#issuecomment-3366390568) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#448265](https://github.com/NixOS/nixpkgs/pull/448265#issuecomment-3366382733) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#388207](https://github.com/NixOS/nixpkgs/pull/388207#issuecomment-2708959337) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#13](https://github.com/nix-community/templates/issues/13#issuecomment-3393799146) in [nix-community/templates](https://github.com/nix-community/templates)
+2. 🗣 Commented on [#448265](https://github.com/NixOS/nixpkgs/pull/448265#issuecomment-3366390568) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#448265](https://github.com/NixOS/nixpkgs/pull/448265#issuecomment-3366382733) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. 🎉 Merged PR [#34](https://github.com/IogaMaster/neocord/pull/34) in [IogaMaster/neocord](https://github.com/IogaMaster/neocord)
 5. 🗣 Commented on [#26](https://github.com/oddlama/nix-topology/pull/26#issuecomment-2598896037) in [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
 <!--END_SECTION:activity-->
