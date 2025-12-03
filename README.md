@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2410](https://github.com/mesonbuild/wrapdb/pull/2410#issuecomment-3591897317) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
-2. ❌ Closed PR [#2504](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
-3. 🗣 Commented on [#2504](https://github.com/mesonbuild/wrapdb/pull/2504#issuecomment-3554136831) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
-4. 🗣 Commented on [#2504](https://github.com/mesonbuild/wrapdb/pull/2504#issuecomment-3550613654) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
-5. 💪 Opened PR [#2504](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+1. 🗣 Commented on [#2541](https://github.com/mesonbuild/wrapdb/pull/2541#issuecomment-3604594533) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+2. ❌ Closed PR [#2541](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+3. 💪 Opened PR [#2541](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+4. 🗣 Commented on [#2410](https://github.com/mesonbuild/wrapdb/pull/2410#issuecomment-3591897317) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+5. ❌ Closed PR [#2504](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
