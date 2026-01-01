@@ -56,9 +56,9 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/jorsn/flakegen/issues/5) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
-2. 🗣 Commented on [#5](https://github.com/jorsn/flakegen/issues/5#issuecomment-3690493723) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
-3. 🗣 Commented on [#2541](https://github.com/mesonbuild/wrapdb/pull/2541#issuecomment-3604594533) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
+1. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-3704039024) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+2. 🔒 Closed issue [#5](https://github.com/jorsn/flakegen/issues/5) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
+3. 🗣 Commented on [#5](https://github.com/jorsn/flakegen/issues/5#issuecomment-3690493723) in [jorsn/flakegen](https://github.com/jorsn/flakegen)
 4. ❌ Closed PR [#2541](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
 5. 💪 Opened PR [#2541](undefined) in [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb)
 <!--END_SECTION:activity-->
