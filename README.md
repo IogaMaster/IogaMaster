@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
-2. 🗣 Commented on [#138](https://github.com/deniz-blue/mcman/issues/138#issuecomment-3707336341) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
-3. ❗ Opened issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
-4. 🗣 Commented on [#130](https://github.com/deniz-blue/mcman/issues/130#issuecomment-3704151657) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
-5. 🗣 Commented on [#8](https://github.com/IogaMaster/flux/issues/8#issuecomment-3704039024) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+1. ❗ Opened issue [#75](https://github.com/yungnickyoung/Ribbits/issues/75) in [yungnickyoung/Ribbits](https://github.com/yungnickyoung/Ribbits)
+2. 🔒 Closed issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+3. 🗣 Commented on [#138](https://github.com/deniz-blue/mcman/issues/138#issuecomment-3707336341) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+4. ❗ Opened issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+5. 🗣 Commented on [#130](https://github.com/deniz-blue/mcman/issues/130#issuecomment-3704151657) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
