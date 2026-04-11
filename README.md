@@ -56,7 +56,7 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/IogaMaster/flux/issues/12#issuecomment-3856846361) in [IogaMaster/flux](https://github.com/IogaMaster/flux)
+1. 🗣 Commented on [#478929](https://github.com/NixOS/nixpkgs/pull/478929#issuecomment-4230102686) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. ❗ Opened issue [#75](https://github.com/yungnickyoung/Ribbits/issues/75) in [yungnickyoung/Ribbits](https://github.com/yungnickyoung/Ribbits)
 3. 🗣 Commented on [#138](https://github.com/deniz-blue/mcman/issues/138#issuecomment-3707336341) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
 4. ❗ Opened issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
