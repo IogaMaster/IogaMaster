@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#356](https://github.com/ryanhcode/sable/issues/356#issuecomment-4322663103) in [ryanhcode/sable](https://github.com/ryanhcode/sable)
-2. 🗣 Commented on [#356](https://github.com/ryanhcode/sable/issues/356#issuecomment-4292683354) in [ryanhcode/sable](https://github.com/ryanhcode/sable)
-3. 🗣 Commented on [#478929](https://github.com/NixOS/nixpkgs/pull/478929#issuecomment-4230102686) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#138](https://github.com/deniz-blue/mcman/issues/138) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
-5. 🗣 Commented on [#130](https://github.com/deniz-blue/mcman/issues/130#issuecomment-3704151657) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+1. 🗣 Commented on [#17](https://github.com/nix-community/templates/issues/17#issuecomment-4384918571) in [nix-community/templates](https://github.com/nix-community/templates)
+2. 🔒 Closed issue [#17](https://github.com/nix-community/templates/issues/17) in [nix-community/templates](https://github.com/nix-community/templates)
+3. 🗣 Commented on [#356](https://github.com/ryanhcode/sable/issues/356#issuecomment-4322663103) in [ryanhcode/sable](https://github.com/ryanhcode/sable)
+4. 🗣 Commented on [#356](https://github.com/ryanhcode/sable/issues/356#issuecomment-4292683354) in [ryanhcode/sable](https://github.com/ryanhcode/sable)
+5. 🗣 Commented on [#478929](https://github.com/NixOS/nixpkgs/pull/478929#issuecomment-4230102686) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
