@@ -9,7 +9,7 @@
 
 ### How it all started:
 
-12+ years ago, at age 6 I began programming. Creating minecraft plugins and mods.
+Many years ago, at age 6 I began programming. Creating minecraft plugins and mods.
 
 At age 10, while experimenting with Windows I corrupted my boot partition.
 This lead me to install my first Linux distro, Linux Mint.
@@ -29,22 +29,30 @@ In January of 2024 I helped nix-community adopt a functional fork of [Manix](htt
 
 I maintain many packages in nixpkgs and help contribute to any projects I find useful.
 
+### What I am doing now:
+
+When AI became mainstream, I worried that programmers would be replaced (and if the speed of improvements kept up, they probably would be).
+So I went to work physical labor jobs, and left open-source behind.
+
+However, it has become apparent to me that it will never happen, even if AGI were to come about, because engineers will adapt, and so will I.
+
+So in 2026 I started college, majoring in Computer Science and Mathematics.
+
+I got a job in Tech, and am now returning to open source, and becoming a nixpkgs maintainer once again.
+
+
 ## 💻 Languages:
 
 ### I know:
 
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://builtwithnix.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### I want to learn:
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📊 My Github Stats
 
@@ -69,13 +77,9 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 [flux](https://github.com/IogaMaster/flux) - Create and deploy game servers with nix  
 
-[blizzard](https://github.com/IogaMaster/blizzard) - 🌨️ Install a nixos system remotely or in place 
+[neocord](https://github.com/IogaMaster/neocord) - Discord rich presense in neovim
 
 [warden](https://github.com/IogaMaster/warden) - A tool to create in depth reviews of nixpkgs pr's
-
-[diplomat](https://github.com/IogaMaster/diplomat) - 📜 Negotiate deployments with a remote
-
-[nixie](https://github.com/IogaMaster/nixie) - 🧪 Create non-nix compatible neovim configs 
 
 [prism](https://github.com/IogaMaster/prism) - 🌈 Convert wallpapers into a colorscheme and place them in your ~/ 
 
@@ -87,21 +91,3 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 
 [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
-[oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations 
-
-### 📬 How to contact me:
-
- <a href="https://discord.com/users/1110249268423442505">
-   <img title="Discord" src="https://simpleicons.vercel.app/discord/5175BF" width="3.5%">
- </a>
-
- <a alt="mailto:iogamastercode@gmail.com" href="mailto:iogamastercode@gmail.com">
-   <img title="Mail Me" src="https://simpleicons.vercel.app/gmail/5175BF" width="3.5%">
- </a>
-
-### 💰 Support me:
-
-I am trying to make a living doing Youtube and open source!
-I think information should be free, so I continue condensing my knowlege into concise tech explainer videos. As well as creating useful tools in the Nix ecosystem and beyond.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2P08GZ)
