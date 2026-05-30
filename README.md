@@ -2,11 +2,10 @@
 
 > ❄️ Nixifying everything
 
-[![](https://visitcount.itsvg.in/api?id=IogaMaster&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-
 ## 📜 About me
-
+<details>
+  <summary>Click to expand</summary>
+  
 ### How it all started:
 
 Many years ago, at age 6 I began programming. Creating minecraft plugins and mods.
@@ -40,9 +39,11 @@ So in 2026 I started college, majoring in Computer Science and Mathematics.
 
 I got a job in Tech, and am now returning to open source, and becoming a nixpkgs maintainer once again.
 
+</details>
 
 ## 💻 Languages:
-
+<details>
+  <summary>Click to expand</summary>
 ### I know:
 
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://builtwithnix.org/)
@@ -54,12 +55,14 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+</details>
+
 ## 📊 My Github Stats
 
-[![IogaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
+[![IogaMaster's GitHub stats](https://github-stats-extended.vercel.app/api?username=IogaMaster&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/IogaMaster)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IogaMaster&theme=catppuccin-mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iogamaster&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iogamaster&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :zap: Recent Activity
 
@@ -90,4 +93,6 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 [manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix
 
 [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+
+
 
