@@ -56,11 +56,11 @@ I maintain many packages in nixpkgs and help contribute to any projects I find u
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485579](https://github.com/NixOS/nixpkgs/issues/485579#issuecomment-4570418264) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#116](https://github.com/feel-co/hjem/issues/116#issuecomment-4494380226) in [feel-co/hjem](https://github.com/feel-co/hjem)
-3. 🔒 Closed issue [#15](https://github.com/nix-community/templates/issues/15) in [nix-community/templates](https://github.com/nix-community/templates)
-4. 🗣 Commented on [#17](https://github.com/nix-community/templates/issues/17#issuecomment-4384918571) in [nix-community/templates](https://github.com/nix-community/templates)
-5. 🔒 Closed issue [#17](https://github.com/nix-community/templates/issues/17) in [nix-community/templates](https://github.com/nix-community/templates)
+1. 💪 Opened PR [#526091](https://github.com/NixOS/nixpkgs/pull/526091) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#485579](https://github.com/NixOS/nixpkgs/issues/485579#issuecomment-4570418264) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#116](https://github.com/feel-co/hjem/issues/116#issuecomment-4494380226) in [feel-co/hjem](https://github.com/feel-co/hjem)
+4. 🔒 Closed issue [#15](https://github.com/nix-community/templates/issues/15) in [nix-community/templates](https://github.com/nix-community/templates)
+5. 🗣 Commented on [#17](https://github.com/nix-community/templates/issues/17#issuecomment-4384918571) in [nix-community/templates](https://github.com/nix-community/templates)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
