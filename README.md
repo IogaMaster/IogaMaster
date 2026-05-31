@@ -67,11 +67,11 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#526182](https://github.com/NixOS/nixpkgs/pull/526182) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ℹ️ Assigned PR [#525728](https://github.com/NixOS/nixpkgs/pull/525728) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#525728](https://github.com/NixOS/nixpkgs/pull/525728#issuecomment-4585717222) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#458932](https://github.com/NixOS/nixpkgs/issues/458932#issuecomment-4585515159) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🔒 Closed issue [#458932](https://github.com/NixOS/nixpkgs/issues/458932) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ℹ️ Assigned issue [#526360](https://github.com/NixOS/nixpkgs/issues/526360) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ℹ️ Unassigned issue [#265438](https://github.com/NixOS/nixpkgs/issues/265438) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❌ Closed PR [#526182](https://github.com/NixOS/nixpkgs/pull/526182) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ℹ️ Assigned PR [#525728](https://github.com/NixOS/nixpkgs/pull/525728) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#525728](https://github.com/NixOS/nixpkgs/pull/525728#issuecomment-4585717222) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
