@@ -67,11 +67,11 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#526447](https://github.com/NixOS/nixpkgs/pull/526447) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#527280](https://github.com/NixOS/nixpkgs/pull/527280#issuecomment-4609303684) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ℹ️ Labeled PR [#527280](https://github.com/NixOS/nixpkgs/pull/527280) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#527401](https://github.com/NixOS/nixpkgs/pull/527401#issuecomment-4609272681) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#527408](https://github.com/NixOS/nixpkgs/pull/527408#issuecomment-4609260350) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#527824](https://github.com/NixOS/nixpkgs/issues/527824#issuecomment-4618644767) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ℹ️ Assigned issue [#527824](https://github.com/NixOS/nixpkgs/issues/527824) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#527831](https://github.com/NixOS/nixpkgs/pull/527831) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ℹ️ Assigned issue [#527155](https://github.com/NixOS/nixpkgs/issues/527155) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#526447](https://github.com/NixOS/nixpkgs/pull/526447) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
