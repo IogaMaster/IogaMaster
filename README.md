@@ -67,11 +67,11 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#529370](https://github.com/NixOS/nixpkgs/pull/529370) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🔒 Closed issue [#1](https://github.com/IogaMaster/tuxedo.nvim/issues/1) in [IogaMaster/tuxedo.nvim](https://github.com/IogaMaster/tuxedo.nvim)
-3. 💪 Opened PR [#529370](https://github.com/NixOS/nixpkgs/pull/529370) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#528975](https://github.com/NixOS/nixpkgs/pull/528975) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#528944](https://github.com/NixOS/nixpkgs/pull/528944#issuecomment-4643749402) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#30](https://github.com/m4xshen/hardtime.nvim/issues/30#issuecomment-4726065280) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+2. 🎉 Merged PR [#529370](https://github.com/NixOS/nixpkgs/pull/529370) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🔒 Closed issue [#1](https://github.com/IogaMaster/tuxedo.nvim/issues/1) in [IogaMaster/tuxedo.nvim](https://github.com/IogaMaster/tuxedo.nvim)
+4. 💪 Opened PR [#529370](https://github.com/NixOS/nixpkgs/pull/529370) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#528975](https://github.com/NixOS/nixpkgs/pull/528975) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
