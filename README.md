@@ -67,11 +67,11 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#569912](https://github.com/NixOS/nixpkgs/pull/569912) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#1](https://github.com/canvas-commons/examples/issues/1) in [canvas-commons/examples](https://github.com/canvas-commons/examples)
-3. ℹ️ Labeled issue [#221](https://github.com/canvas-commons/canvas-commons/issues/221) in [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons)
-4. ❗ Opened issue [#221](https://github.com/canvas-commons/canvas-commons/issues/221) in [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons)
-5. ℹ️ Assigned issue [#221](https://github.com/canvas-commons/canvas-commons/issues/221) in [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons)
+1. 🗣 Commented on [#570758](https://github.com/NixOS/nixpkgs/pull/570758#issuecomment-6010086745) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#569912](https://github.com/NixOS/nixpkgs/pull/569912) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#1](https://github.com/canvas-commons/examples/issues/1) in [canvas-commons/examples](https://github.com/canvas-commons/examples)
+4. ℹ️ Labeled issue [#221](https://github.com/canvas-commons/canvas-commons/issues/221) in [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons)
+5. ❗ Opened issue [#221](https://github.com/canvas-commons/canvas-commons/issues/221) in [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons)
 <!--END_SECTION:activity-->
 
 ## 🔭 Currently working on:
