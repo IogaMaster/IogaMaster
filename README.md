@@ -67,10 +67,10 @@ I got a job in Tech, and am now returning to open source, and becoming a nixpkgs
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/IogaMaster/dotfiles/issues/7) in [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles)
-2. 🗣 Commented on [#7](https://github.com/IogaMaster/dotfiles/issues/7#issuecomment-6387468677) in [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles)
-3. 🗣 Commented on [#575026](https://github.com/NixOS/nixpkgs/pull/575026#issuecomment-6252475025) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#571583](https://github.com/NixOS/nixpkgs/pull/571583) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#580392](https://github.com/NixOS/nixpkgs/pull/580392#issuecomment-6756252419) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🔒 Closed issue [#7](https://github.com/IogaMaster/dotfiles/issues/7) in [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles)
+3. 🗣 Commented on [#7](https://github.com/IogaMaster/dotfiles/issues/7#issuecomment-6387468677) in [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles)
+4. 🗣 Commented on [#575026](https://github.com/NixOS/nixpkgs/pull/575026#issuecomment-6252475025) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 🗣 Commented on [#570758](https://github.com/NixOS/nixpkgs/pull/570758#issuecomment-6010086745) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
